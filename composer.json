@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/config",
+    "name": "laravel-admin-ext/config-extend",
     "description": "Config extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "setting"],
-    "homepage": "https://github.com/laravel-admin-extensions/config",
+    "homepage": "https://github.com/vesterliandrei/config",
     "license": "MIT",
     "authors": [
         {
